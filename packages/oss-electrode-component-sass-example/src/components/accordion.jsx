@@ -8,7 +8,7 @@ import propTypes from "prop-types";
 // remember to also remove the bundled demo CSS files
 // from ../styles
 
-import styles from "../styles/accordion.scss";
+import styles from "../styles/accordion.css";
 
 export default class Accordion extends React.Component {
   constructor() {

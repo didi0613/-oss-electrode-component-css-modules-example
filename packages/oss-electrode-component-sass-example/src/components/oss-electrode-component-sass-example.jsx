@@ -5,7 +5,7 @@
 import React from "react";
 import propTypes from "prop-types";
 
-import styles from "../styles/oss-electrode-component-sass-example.scss";
+import styles from "../styles/oss-electrode-component-sass-example.css";
 import Accordion from "./accordion";
 
 export default class OssElectrodeComponentSassExample extends React.Component {
